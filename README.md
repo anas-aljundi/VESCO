@@ -1,2 +1,0 @@
-# VESCO
-responsive website
